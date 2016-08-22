@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ErstesProjekt</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_vorname_hint">Voraname</string>
+    <string name="edit_nachname_hint">Nachname</string>
+    <string name="greeting_text">Hallo</string>
+    <string name="edit_alter_hint">Alter</string>
+    <string name="alter_text">, dein Alter ist: </string>
+
+</resources>
